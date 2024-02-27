@@ -1,1 +1,2 @@
 api_key=[KEY HERE]
+google_api_key=[KEY HERE]
