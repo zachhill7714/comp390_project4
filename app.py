@@ -4,8 +4,6 @@ from json import loads
 from datetime import datetime
 
 def app():
-    print("Hello world")
-
     api_key = get_api_key()[0]
 
     user_input = ""
